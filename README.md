@@ -4,6 +4,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=1000&color=96162b&center=true&vCenter=true&width=600&lines=---+DSA+Learner+---;---+Tech+Explorer+---;" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevanshuG05&label=Visitors&style=for-the-badge&color=2f81f7&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/followers/DevanshuG05?label=Followers&style=for-the-badge&color=2f81f7&labelColor=0d1117" />
+</div>
+
 ---
 
 ## 🕵️ **About Me**
@@ -86,21 +91,13 @@ I'm a passionate developer from India working at the intersection of **innovatio
 ## 📊 **My Stats**
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevanshuG05&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshuG05&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+</div>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=DevanshuG05&show_icons=true&theme=radical&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshuG05&layout=compact&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=DevanshuG05&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshuG05&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</div>
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshuG05&custom_title=Devanshu's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"alt="Contribution Graph" />
 </div>
