@@ -1,7 +1,7 @@
 # <div align="center"> Welcome to My GitHub </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=DSA+Learner;Open+Source+Enthusiast;Tech+Explorer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=1000&color=96162b&center=true&vCenter=true&width=600&lines=DSA+Learner;Tech+Explorer;" alt="Typing SVG" />
 </div>
 
 ---
