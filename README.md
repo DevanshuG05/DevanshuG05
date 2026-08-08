@@ -1,7 +1,7 @@
 # <div align="center"> Welcome to My GitHub </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=1000&color=96162b&center=true&vCenter=true&width=600&lines=---+DSA+Learner+---;---+Tech+Explorer+---;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=1000&color=96162b&center=true&vCenter=true&width=600&lines=---+Tech+Enthusiastic+---;" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -91,14 +91,15 @@ I'm a passionate developer from India working at the intersection of **innovatio
 ## 📊 **My Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevanshuG05&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevanshuG05&show_icons=true&theme=github_dark&hide_border=true" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshuG05&layout=compact&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanshuG05&layout=compact&theme=github_dark&hide_border=true" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanshuG05&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
 </div>
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshuG05&custom_title=Devanshu's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"alt="Contribution Graph" />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevanshuG05&custom_title=Devanshu%27s%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
