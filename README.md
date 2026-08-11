@@ -67,6 +67,11 @@ I'm a passionate developer from India working at the intersection of **innovatio
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40"><br>
       MySQL
     </td>
+      </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40"><br>
       MongoDB
