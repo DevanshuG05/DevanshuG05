@@ -41,7 +41,7 @@ I'm a passionate developer from India working at the intersection of **innovatio
   <tr>
     <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="40"><br>
-      C 
+      C
     </td>
     <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="40"><br>
@@ -66,6 +66,14 @@ I'm a passionate developer from India working at the intersection of **innovatio
     <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40"><br>
       MySQL
+    </td>
+    <td align="center">
+      <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" height="40"><br>
+      MongoDB
+    </td>
+    <td align="center">
+      <img src="https://cdn.simpleicons.org/googlecolab" height="40"><br>
+      Colab
     </td>
     <td align="center">
       <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" height="40"><br>
