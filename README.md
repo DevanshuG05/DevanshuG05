@@ -5,8 +5,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followings/DevanshuG05?label=Followings&style=for-the-badge&color=2f81f7&labelColor=1d1117" />
   <img src="https://img.shields.io/github/followers/DevanshuG05?label=Followers&style=for-the-badge&color=2f81f7&labelColor=0d1117" />
+  <img src="https://img.shields.io/github/stars/DevanshuG05?label=Stars&style=for-the-badge&color=2f81f7&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Following-GitHub-2f81f7?style=for-the-badge&labelColor=0d1117" />
 </div>
 
 ---
