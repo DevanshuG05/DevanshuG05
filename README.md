@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevanshuG05&label=Visitors&style=for-the-badge&color=2f81f7&labelColor=0d1117" />
+  
   <img src="https://img.shields.io/github/followers/DevanshuG05?label=Followers&style=for-the-badge&color=2f81f7&labelColor=0d1117" />
 </div>
 
